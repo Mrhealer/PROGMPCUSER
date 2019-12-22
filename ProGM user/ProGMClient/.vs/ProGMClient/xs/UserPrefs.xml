@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{5B31B1E1-6CB7-4BE4-82B6-AF62751D91D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProGMClient/View/Login/frmDangNhap.cs">
+    <Files>
+      <File FileName="ProGMClient/Program.cs" Line="23" Column="36" />
+      <File FileName="ProGMClient/Main.cs" Line="1" Column="1" />
+      <File FileName="ProGMClient/View/Login/frmDangNhap.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProGMClient" expanded="True">
+            <Node name="ProGMClient" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="Login" expanded="True">
+                  <Node name="frmDangNhap.cs" expanded="True" selected="True" />
+                </Node>
+                <Node name="TinhTien" expanded="True" />
+              </Node>
+              <Node name="Main.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProGMClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

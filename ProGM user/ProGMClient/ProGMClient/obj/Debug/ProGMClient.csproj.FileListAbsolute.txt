@@ -1,0 +1,25 @@
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/bin/Debug/ProGMClient.exe.config
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/bin/Debug/ProGMClient.exe
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/bin/Debug/ProGMClient.pdb
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.csprojResolveAssemblyReference.cache
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.Properties.Resources.resources
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.csproj.GenerateResource.Cache
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.exe
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.pdb
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.View.Login.frmDangNhap.resources
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.exe.licenses
+c:/users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.Main.resources
+C:/Users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/bin/Debug/ProGMClient.exe.manifest
+C:/Users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/bin/Debug/ProGMClient.application
+C:/Users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.exe.manifest
+C:/Users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.application
+C:/Users/quoct/onedrive/documents/visual studio 2012/Projects/ProGMClient/ProGMClient/obj/Debug/ProGMClient.View.TinhTien.frmTinhTien.resources
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.csprojAssemblyReference.cache
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.Main.resources
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.Properties.Resources.resources
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.View.Login.frmDangNhap.resources
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.View.TinhTien.frmTinhTien.resources
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.csproj.GenerateResource.cache
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.exe.licenses
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.exe
+/Users/healer/Documents/WinForm/ProGM user/ProGMClient/ProGMClient/obj/Debug/ProGMClient.pdb
